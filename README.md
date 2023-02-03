@@ -1,0 +1,1 @@
+# Automated-Deployment-of-WordPress-on-Kubernetes-with-RDS-and-Terraform.
